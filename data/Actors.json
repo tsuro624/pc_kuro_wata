@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"poniko_battle","characterIndex":0,"characterName":"poniko_walk","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"poniko","traits":[],"initialLevel":16,"maxLevel":99,"name":"ぽに子","nickname":"ポニーテール","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":3,"characterName":"Extracats","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"kuro_cat_black","traits":[],"initialLevel":5,"maxLevel":99,"name":"クロ","nickname":"黒猫","note":"","profile":"黒いイエネコ。家族。"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"poniko__neko_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"poniko_neko","traits":[],"initialLevel":1,"maxLevel":99,"name":"nekomimi","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"poniko__hat_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"poniko_hat","traits":[],"initialLevel":1,"maxLevel":99,"name":"boushi","nickname":"","note":"","profile":""}
+]
